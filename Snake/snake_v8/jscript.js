@@ -41,7 +41,7 @@ point();
 
 var kill = function(){
     if(oggy.classList.contains("boxed")){
-        if(!alert("You have scored "+pcount + " and travelled " +distance+" blocks"))
+        if(!alert("恭喜獲得"+ pcount + "分！移動了" + distance + "格方塊！"))
         window.location.reload();
     };
 };
