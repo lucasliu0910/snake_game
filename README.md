@@ -1,9 +1,11 @@
 # snake_game
 
-Classic nokia snake game using web.
+最經典的貪吃蛇遊戲！
 
-Best result on google chrome.
+完美呈現於Google Chrome！
 
-## Note:
+## Note
 
-The latest version v8 is the working one.
+最新版本為v8。
+
+原創作者：https://github.com/RabiRoshan/snake_game （已獲得作者授權編輯語言）
